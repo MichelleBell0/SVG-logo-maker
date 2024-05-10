@@ -4,7 +4,7 @@
   "description": "svg logo maker",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "jest"
   },
   "author": "Michelle Bell",
   "license": "MIT",
