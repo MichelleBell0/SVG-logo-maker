@@ -2,7 +2,8 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This application collects user input through a command line interface. The user is prompted with questions about their logo like the text, text color, shape, and shape color. The application then uses this input to generate a logo.svg file with the user's custom logo.   
+This application collects user input through a command line interface. The user is prompted with questions about their logo like the text, text color, shape, and shape color. The application then uses this input to generate a logo.svg file with the user's custom logo.
+[Click to Watch Demo Video](https://drive.google.com/file/d/1UfU5GnB9JDft123gHIHi1gHt0JdNyCkR/view)
 
 ## Table of Contents
 - [Installation](#installation)
