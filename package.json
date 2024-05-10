@@ -4,6 +4,7 @@
   "description": "svg logo maker",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "jest"
   },
   "author": "Michelle Bell",
